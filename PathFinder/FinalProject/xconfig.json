@@ -1,0 +1,8 @@
+{
+  "AppName": "Final Project",
+  "WinWidth": 640,
+  "WinHeight": 640,
+  "FullScreen": false,
+  "SoundPath": "../Assets/Sounds",
+  "TexturePath": "../Assets/Images"
+}

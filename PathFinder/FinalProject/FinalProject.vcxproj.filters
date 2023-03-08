@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="TileMap.cpp" />
+    <ClCompile Include="AICharacter.cpp" />
+    <ClCompile Include="AICharacterStates.cpp" />
+    <ClCompile Include="PickUps.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="EnemyStates.cpp" />
+    <ClCompile Include="EnemyManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TileMap.h" />
+    <ClInclude Include="AICharacter.h" />
+    <ClInclude Include="AICharacterStates.h" />
+    <ClInclude Include="PickUps.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="EnemyStates.h" />
+    <ClInclude Include="EnemyManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="level.txt" />
+    <Text Include="map.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="xconfig.json" />
+  </ItemGroup>
+</Project>

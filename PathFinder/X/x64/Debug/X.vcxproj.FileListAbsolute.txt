@@ -1,0 +1,6 @@
+D:\VGP332\x64\Debug\X.pdb
+D:\VGP332\X\x64\Debug\X.pdb
+D:\VGP332 - Copy\x64\Debug\X.pdb
+D:\VGP332 - Copy\X\x64\Debug\X.pdb
+D:\LaSalle-2021-7\VGP332 - Copy\x64\Debug\X.pdb
+D:\LaSalle-2021-7\VGP332 - Copy\X\x64\Debug\X.pdb

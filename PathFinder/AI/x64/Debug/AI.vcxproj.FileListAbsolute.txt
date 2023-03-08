@@ -1,0 +1,6 @@
+D:\VGP332\x64\Debug\AI.pdb
+D:\VGP332\AI\x64\Debug\AI.pdb
+D:\VGP332 - Copy\x64\Debug\AI.pdb
+D:\VGP332 - Copy\AI\x64\Debug\AI.pdb
+D:\LaSalle-2021-7\VGP332 - Copy\x64\Debug\AI.pdb
+D:\LaSalle-2021-7\VGP332 - Copy\AI\x64\Debug\AI.pdb
